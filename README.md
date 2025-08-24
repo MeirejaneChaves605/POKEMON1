@@ -1,7 +1,7 @@
 <h1 align="center">
   🕹 Pokédex
 </h1>
-## :Tecnologias usadas:
+Tecnologias usadas:
 - `Javascript`
 - `HTML`
 - `CSS`
