@@ -1,5 +1,5 @@
 <h1 align="center">
-  🕹 Pokédex
+  🕹 Pokemon
 </h1>
 Tecnologias usadas:
 - Javascript
