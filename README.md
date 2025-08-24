@@ -2,9 +2,9 @@
   🕹 Pokédex
 </h1>
 Tecnologias usadas:
-- `Javascript`
-- `HTML`
-- `CSS`
+- Javascript
+- HTML
+- CSS
 
 
 ## Tela
