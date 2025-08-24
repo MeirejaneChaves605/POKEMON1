@@ -7,7 +7,7 @@
 - `CSS`
 
 
-## :Tela
+## Tela
 
 ![pokedex](https://user-images.githubusercontent.com/23708544/89828414-60129d80-db2f-11ea-94a6-d3a42ebe4194.png)
 
